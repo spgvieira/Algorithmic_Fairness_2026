@@ -30,6 +30,6 @@ AFAE course is an overview on the topics of bias and fairness in data, models, a
 
 * [Vedran Sekara](mailto:vsek@itu.dk) (Course manager & Teacher)
 * [Pawel Grabarczyk](mailto:pawg@itu.dk) (Teacher)
-* [Morten Boilesen](mailto:morah@itu.dk) (Teacher)
+* [Morten Boilesen](mailto:morah@itu.dk) (Teaching Assitant)
 * [Sara Vieira](mailto:sapi@itu.dk) (Teaching Assistant)
 
