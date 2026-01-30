@@ -22,9 +22,9 @@ AFAE course is an overview on the topics of bias and fairness in data, models, a
 
 ### Mandatory Assignment Deadlines
 
-1. TBA
-2. TBA
-3. TAB
+1. 27th February
+2. 20th March
+3. 24th April
 
 ### Team
 
